@@ -1,0 +1,27 @@
+
+Texas Hold 'Em Poker Rules:
+  - All players will start with the same amount of money (for simplicity reasons)
+  - Hands will continue to be played until either there is only one player left, or the game is manually closed
+  - When a player has no money left, or they do not have enough money to pay the ante and blinds, they are out of the game
+  - At the start of a hand, each player is dealt two cards, all players must pay the ante, which is chosen at the start of the game, and the two players following the dealer must pay the blinds, which are also chosen at the start of the game
+  - Betting then begins, starting with player following the last blind (or the player following the dealer, if there are no blinds), and continues until either there is only one player left, in which case that player wins the hand, or play returns to the last player to bet or raise, or the player who started the betting, if there were no bets
+  - Three community cards are taken from the deck
+  - Another round of betting is played, starting with the player following the dealer
+  - This is repeated twice more with one community card added each time
+  - If there are still at least two players left, they show their hands, and the player with the highest hand wins
+  - All cards are taken into consideration when determining the winner
+  - There is only a tie if two or more leading hands are identical except for suit
+  - If one or more players are all-in, and other players wish to continue betting, a side pot is created; players who are all-in are not required to raise
+  - Minimum bet/raise is the last bet/raise, or the highest of the blinds and the ante, in the case of the first bet
+
+Order of hands (from most to least valuable):
+ 1. Straight flush - five cards of the same suit and consecutive ranks
+ 2. Four of a kind - four cards of the same rank
+ 3. Full house - three of a kind and a pair
+ 4. Flush - five cards of the same suit
+ 5. Straight - five cards of consecutive ranks
+ 6. Three of a kind - three cards of the same rank
+ 7. Two pair - two pairs
+ 8. One pair - two cards of the same rank
+ 9. High card - to break a tie, whoever has the higher ranked card wins
+
